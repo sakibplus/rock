@@ -287,9 +287,9 @@ header
 ---------------------------------------------------------------------*/
 
 header {
-     background: transparent;
+     background: #149eb5;
      width: 100%;
-     padding: 40px 30px;
+     /*! padding: 40px 30px; */
      position: absolute;
      z-index: 9;
 }
